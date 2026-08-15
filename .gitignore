@@ -1,0 +1,11 @@
+# build output - shipped as a Release asset instead
+padkey.exe
+tools/pcapparse.exe
+
+# runtime state (lives in %APPDATA%\PadKey; these are only leftovers from older builds)
+padkey.ini
+padkey-log*.txt
+
+# captures and scratch
+*.pcap
+*.pcapng

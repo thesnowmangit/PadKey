@@ -10,6 +10,11 @@ Varsayılan: **sol arka tuş → F12** (Steam ekran görüntüsü), **sağ arka 
 Steam Input'a hiç dokunmaz, girdi zincirine hiç girmez; bu yüzden stick drift'i yapamaz ve
 polling hızını düşürmez. Kumandanın hafızasına hiçbir şey yazmaz.
 
+**[How I got the back paddles to type](docs/how-it-was-solved.md)** — sorunun nasıl
+çözüldüğünü anlatan yazı (İngilizce): kumandanın neden hiç tuş basamadığı, paddle bitinin
+nasıl bulunduğu, satıcı uygulamasının USB üzerinde aslında ne söylediği ve ancak saatlerce
+oynadıktan sonra ortaya çıkan hatalar. Önce sade dille, sonra teknik ayrıntı.
+
 ---
 
 ## Neden gerekli

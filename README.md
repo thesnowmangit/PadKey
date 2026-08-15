@@ -11,6 +11,11 @@ drift or lower the pad's polling rate. Nothing is ever written to the pad's memo
 
 *[Türkçe README](README.tr.md)*
 
+**[How I got the back paddles to type](docs/how-it-was-solved.md)** — the write-up: why the
+pad cannot type at all, how the paddle bits were found, what the manufacturer's app is
+actually saying over USB, and the bugs that only showed up after hours of play. Plain
+language first, technical detail after.
+
 ---
 
 ## Why this is needed

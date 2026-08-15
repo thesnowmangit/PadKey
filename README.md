@@ -154,4 +154,5 @@ double tap from a spurious repeat.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+[PolyForm Noncommercial 1.0.0](LICENSE). Free to use, study, modify and share for
+any noncommercial purpose. Commercial use needs my permission — open an issue.

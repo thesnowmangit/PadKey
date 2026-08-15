@@ -147,4 +147,6 @@ silinmez, 512 KB'ı geçerse sıfırlanır.
 
 ## Lisans
 
-MIT — [LICENSE](LICENSE).
+[PolyForm Noncommercial 1.0.0](LICENSE). Ticari olmayan her amaçla serbestçe
+kullanılabilir, incelenebilir, değiştirilebilir ve paylaşılabilir. Ticari kullanım
+için iznim gerekir — bir issue açman yeterli.
